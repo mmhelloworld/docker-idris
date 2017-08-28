@@ -1,0 +1,6 @@
+flags: {}
+extra-package-dbs: []
+packages: []
+extra-deps: [ binary-0.8.5.1, cheapskate-0.1.1 ]
+#system-ghc: false
+resolver: lts-9.1

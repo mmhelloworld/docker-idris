@@ -1,0 +1,9 @@
+flags:
+  idris:
+    FFI: true
+    GMP: true
+
+extra-package-dbs: []
+packages: []
+extra-deps: []
+resolver: lts-11.22
